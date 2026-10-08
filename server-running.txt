@@ -1,0 +1,5 @@
+Scanning 127.0.0.1
+
+Port 7999: CLOSED — connection refused
+Port 8000: OPEN
+Port 8001: CLOSED — connection refused

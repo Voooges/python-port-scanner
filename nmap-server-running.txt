@@ -1,0 +1,10 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-10-08 18:59 -0400
+Nmap scan report for 127.0.0.1
+Host is up (0.000078s latency).
+
+PORT     STATE  SERVICE
+7999/tcp closed irdmi2
+8000/tcp open   http-alt
+8001/tcp closed vcom-tunnel
+
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds
